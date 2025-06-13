@@ -1,7 +1,7 @@
 <?php
 
-$domain = 'http://localhost/travel/jenna-trans-holiday.web.id/';
-// $domain = 'https://jenna-trans-holiday.web.id/';
+// $domain = 'http://localhost/travel/jenna-trans-holiday.web.id/';
+$domain = 'https://jenna-trans-holiday.web.id/';
 $brand = 'Jenna Trans Holiday';
 $logo = 'src/img/logo.jpg';
 $logoPanjang = 'src/img/logo.jpg';
