@@ -3,8 +3,8 @@
 $domain = 'http://localhost/travel/jenna-trans-holiday.web.id/';
 // $domain = 'https://jenna-trans-holiday.web.id/';
 $brand = 'Jenna Trans Holiday';
-$logo = 'src/img/Zarabeta-Fam-Travel.jpg';
-$logoPanjang = 'src/img/zarabeta-fam-travel-text.jpg';
+$logo = 'src/img/logo.jpg';
+$logoPanjang = 'src/img/logo.jpg';
 $title = $brand . " Garut Sumedang Jatinangor ke Jabodetabek";
 $desc = $brand . " menawarkan jasa travel Garut Sumedang Jatinangor ke Jabodetabek dengan harga murah dan jadwal 24 jam";
 $telp = '0812-2284-0577';
@@ -173,7 +173,7 @@ $galeri = [
             <img
               loading="lazy"
               src="<?= $domain . $logoPanjang ?>"
-              class="w-44 md:w-52 xl:w-60 m-auto rounded"
+              class="w-16 md:w-20 xl:w-24 m-auto rounded"
               alt="logo" />
           </a>
         </div>
