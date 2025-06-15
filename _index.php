@@ -5,8 +5,8 @@ $domain = 'https://jenna-trans-holiday.web.id/';
 $brand = 'Jenna Trans Holiday';
 $logo = 'src/img/logo.jpg';
 $logoPanjang = 'src/img/logo.jpg';
-$title = $brand . " Garut Sumedang Jatinangor ke Jabodetabek";
-$desc = $brand . " menawarkan jasa travel Garut Sumedang Jatinangor ke Jabodetabek dengan harga murah dan jadwal 24 jam";
+$title = $brand . " Sumedang Jatinangor ke Jabodetabek";
+$desc = $brand . " menawarkan jasa travel Sumedang Jatinangor ke Jabodetabek dengan harga murah dan jadwal 24 jam";
 $telp = '0812-2284-0577';
 // $telp2 = '0822-4108-1699';
 $alamat = 'Sarimekar, Kabupaten Sumedang, Jawa Barat';
@@ -51,12 +51,12 @@ $menu = [
 
 
 $rute = [
-  "Travel Garut Jakarta",
-  "Travel Garut Bogor",
-  "Travel Garut Depok",
-  "Travel Garut Tangerang",
-  "Travel Garut Bekasi",
-  "Travel Garut Bandara",
+  "Travel Sumedang Jakarta",
+  "Travel Sumedang Bogor",
+  "Travel Sumedang Depok",
+  "Travel Sumedang Tangerang",
+  "Travel Sumedang Bekasi",
+  "Travel Sumedang Bandara",
 
   "Travel Jatinangor Jakarta",
   "Travel Jatinangor Bogor",
@@ -65,19 +65,12 @@ $rute = [
   "Travel Jatinangor Bekasi",
   "Travel Jatinangor Bandara",
 
-  "Travel Sumedang Jakarta",
-  "Travel Sumedang Bogor",
-  "Travel Sumedang Depok",
-  "Travel Sumedang Tangerang",
-  "Travel Sumedang Bekasi",
-  "Travel Sumedang Bandara",
-
-  "Travel Jakarta Garut",
-  "Travel Bogor Garut",
-  "Travel Depok Garut",
-  "Travel Tangerang Garut",
-  "Travel Bekasi Garut",
-  "Travel Bandara Garut",
+  "Travel Jakarta Sumedang",
+  "Travel Bogor Sumedang",
+  "Travel Depok Sumedang",
+  "Travel Tangerang Sumedang",
+  "Travel Bekasi Sumedang",
+  "Travel Bandara Sumedang",
 
   "Travel Jakarta Jatinangor",
   "Travel Bogor Jatinangor",
@@ -85,13 +78,6 @@ $rute = [
   "Travel Tangerang Jatinangor",
   "Travel Bekasi Jatinangor",
   "Travel Bandara Jatinangor",
-
-  "Travel Jakarta Sumedang",
-  "Travel Bogor Sumedang",
-  "Travel Depok Sumedang",
-  "Travel Tangerang Sumedang",
-  "Travel Bekasi Sumedang",
-  "Travel Bandara Sumedang",
 ];
 
 $kota = [
