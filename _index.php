@@ -7,7 +7,7 @@ $logo = 'src/img/logo.jpg';
 $logoPanjang = 'src/img/logo.jpg';
 $title = $brand . " Sumedang Jatinangor ke Jabodetabek";
 $desc = $brand . " menawarkan jasa travel Sumedang Jatinangor ke Jabodetabek dengan harga murah dan jadwal 24 jam";
-$telp = '0812-2284-0577';
+$telp = '0813-1368-8511';
 // $telp2 = '0822-4108-1699';
 $alamat = 'Sarimekar, Kabupaten Sumedang, Jawa Barat';
 
